@@ -1,0 +1,9 @@
+{
+	"name": "meer01ADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fcc9fe20-733b-4bf4-af85-0f680d230ed1",
+		"tenantId": "9b7a6cde-873f-4c12-a2e7-cf4412b1db07"
+	}
+}
